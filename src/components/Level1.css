@@ -1,0 +1,66 @@
+.level1 {
+  background-image: url(../assets/images/pexels-ken-cheung-5348709.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Space Mono";
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+body {
+  margin: 0;
+}
+.question {
+  border: 1px solid #c7c6c4;
+  background-color: rgb(217, 145, 82, 0.6);
+  margin: 0 auto;
+  font-family: "Space Mono", monospace;
+  width: 60%;
+  position: relative;
+  top: 50px;
+  font-size: 1.5rem;
+}
+
+.buttons {
+  /* padding: 10px; */
+  width: 80px;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 1.5rem;
+  font-family: "Space Mono", monospace;
+  position: relative;
+  top: 60px;
+  font-weight: 700;
+}
+.answer-button {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  background-color: #3f768c;
+  font-family: "Space Mono", monospace;
+  position: relative;
+  margin-top: 80px;
+}
+
+.answer {
+  display: none;
+}
+
+.jawab {
+  font-size: 1.5rem;
+  font-family: "Space Mono", monospace;
+  position: relative;
+  top: 60px;
+  width: 60%;
+  margin: 0 auto;
+  color: white;
+  /* color: red; */
+}
+
+.Type-text {
+  font-family: "Space Mono", monospace;
+}
+.newClass {
+  font-family: "Space Mono", monospace;
+}

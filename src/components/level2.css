@@ -1,0 +1,54 @@
+.level2 {
+  background-image: url(../assets/images/pexels-spacex-60133.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Space Mono";
+  width: 100vw;
+  height: 100vh;
+}
+
+.answer {
+  display: none;
+}
+.password {
+  font-size: 1.1rem;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.password-button {
+  width: 80px;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  position: relative;
+  top: 10vh;
+  width: 160px;
+}
+.answerInput {
+  text-align: center;
+}
+
+.false {
+  display: none;
+}
+
+.true {
+  background-color: rgb(217, 145, 82, 0.6);
+  font-size: 1.5rem;
+  width: 60%;
+  margin: 0 auto;
+  position: relative;
+  top: 15vh;
+  border: 1px solid #c7c6c4;
+}
+.nextButton {
+  border-radius: 5px;
+  font-size: 1.1rem;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  position: relative;
+  top: 18vh;
+  background-color: #3f768c;
+}
