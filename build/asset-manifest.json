@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/world2-level6/static/css/main.64c19e15.chunk.css",
+    "main.js": "/world2-level6/static/js/main.84141ad5.chunk.js",
+    "main.js.map": "/world2-level6/static/js/main.84141ad5.chunk.js.map",
+    "runtime-main.js": "/world2-level6/static/js/runtime-main.4b6e9ec6.js",
+    "runtime-main.js.map": "/world2-level6/static/js/runtime-main.4b6e9ec6.js.map",
+    "static/js/2.efc343ba.chunk.js": "/world2-level6/static/js/2.efc343ba.chunk.js",
+    "static/js/2.efc343ba.chunk.js.map": "/world2-level6/static/js/2.efc343ba.chunk.js.map",
+    "index.html": "/world2-level6/index.html",
+    "static/css/main.64c19e15.chunk.css.map": "/world2-level6/static/css/main.64c19e15.chunk.css.map",
+    "static/js/2.efc343ba.chunk.js.LICENSE.txt": "/world2-level6/static/js/2.efc343ba.chunk.js.LICENSE.txt",
+    "static/media/congratulations.css": "/world2-level6/static/media/astronaut.b5743166.jpeg",
+    "static/media/Level1.css": "/world2-level6/static/media/pexels-ken-cheung-5348709.54ffd14f.jpg",
+    "static/media/fly.css": "/world2-level6/static/media/pexels-pixabay-2159.ed4f4502.jpg",
+    "static/media/level2.css": "/world2-level6/static/media/pexels-spacex-60133.f57c1b02.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6e9ec6.js",
+    "static/js/2.efc343ba.chunk.js",
+    "static/css/main.64c19e15.chunk.css",
+    "static/js/main.84141ad5.chunk.js"
+  ]
+}
